@@ -6,9 +6,6 @@ asdf
 d
 sdf
 gg
-<<<<<<< HEAD
 dff
 asdf
-=======
 dff
->>>>>>> 98a905723dde3bc1b8f24607b31cc51ab00b2345
